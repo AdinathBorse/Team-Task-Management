@@ -73,7 +73,7 @@ I had to learn how JWT works and how to keep the login state after refresh. I al
 
 # Learning Outcomes
 
-I learned how to connect React with Express and MongoDB, how to protect routes, and how to keep user state across refresh.
+I learned how to connect React with Express and MongoDB, how to protect routes, and how to keep user state across refresh.And i also learned api handling database handling and problem solving 
 
 # Deployment Notes
 
