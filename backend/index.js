@@ -29,8 +29,8 @@ const app = express()
 
 // Middleware to handle cors
 const allowedOrigins = [
-  process.env.FRONT_END_URL || "http://localhost:5174",
-  "http://localhost:5173",
+  process.env.FRONT_END_URL || "https://team-task-management-chi.vercel.app"
+ 
 ]
 
 app.use(
